@@ -20,12 +20,7 @@ Welcome to the **Dandy's World Script** repository – your ultimate open-source
 
 **Dandy's World Script** is a powerful, modular script designed to streamline your development process and enhance your website's digital presence. Whether you're building interactive web applications, innovative websites, or engaging digital content, our script is tailored to deliver speed, efficiency, and seamless integration.
 
-Key benefits include:
-- **Optimized Performance:** Fast loading times and reduced resource usage.
-- **SEO-Ready:** Built-in best practices to improve your site's Google ranking.
-- **User-Friendly Design:** Simple implementation and customization.
-- **Scalability:** Perfect for small projects and large-scale applications alike.
-- **Community-Driven:** Open-source code with active support and regular updates.
+
 
 ## Table of Contents
 1. [Overview](#overview)
